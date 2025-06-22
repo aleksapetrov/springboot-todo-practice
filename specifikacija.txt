@@ -1,0 +1,18 @@
+user, task
+
+
+/auth/login
+/auth/register
+
+
+users/id/tasks - GET
+users/id/tasks - POST
+
+
+tasks/id - GET
+tasks/id - PUT
+tasks/id - DELETE
+
+
+
+
